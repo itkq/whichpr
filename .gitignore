@@ -1,2 +1,4 @@
 /whichpr
 /dist
+# Added by goreleaser init:
+dist/
